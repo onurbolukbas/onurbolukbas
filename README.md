@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">A Software Developer from Istanbul/Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=onurbolukbas" alt="onurbolukbas" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onurbolukbas&theme=dracula" alt="onurbolukbas" /></a> </p>
 
 - 📝 I regularly write articles on [My Medium Page](https://medium.com/@onurbolukbas) 
 
