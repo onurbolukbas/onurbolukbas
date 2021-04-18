@@ -43,4 +43,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onurbolukbas&show_icons=true&theme=radical&locale=en&count_private=true&hide=issues" alt="onurbolukbas" width="50%" /></p>
 
+<div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onurbolukbas" alt="onurbolukbas" /> </p>
+ </div>
