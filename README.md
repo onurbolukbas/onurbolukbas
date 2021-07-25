@@ -34,6 +34,7 @@
  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tensorflow" width="30" height="30"/> </a> 
   
 <h3 align="left">Tools:</h3>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGnoXT8Ty8whg/company-logo_200_200/0/1622566352666?e=2159024400&v=beta&t=N25JIgaaMgiPz6k--dhmMLi1i4ciqUvzNHzOYArQZlo" alt="vscode" width="30" height="30"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
 <a href="https://slack.com/intl/en-tr/" target="_blank"> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="37" height="37"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
